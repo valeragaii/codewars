@@ -1,2 +1,2 @@
 # codewars
-my codewars solution
+my codewars solutions
